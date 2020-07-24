@@ -1,0 +1,10 @@
+Pagina: /fmsys/comu2019/avaliacao/principal.php?val=bW1hcnRpbnNAdXNwLmJy # 2019-7-28 17:16:04 #  # 201.6.128.211 # mmartins@usp.br # 120; 
+Pagina: /fmsys/comu2019/avaliacao/principal.php?pg=avalia.php&id_trabalho=1097&aval= # 2019-7-28 17:16:04 #  # 201.6.128.211 # mmartins@usp.br # 120; 
+Pagina: /fmsys/comu2019/avaliacao/principal.php?pg=salva_parecer.php&val=&id_trabalho=1097&aval_id=120 # 2019-7-28 17:16:04 #  # 201.6.128.211 # mmartins@usp.br # 120; 
+Pagina: /fmsys/comu2019/avaliacao/principal.php # 2019-7-28 17:16:04 #  # 201.6.128.211 # mmartins@usp.br # 120; 
+Pagina: /fmsys/comu2019/avaliacao/principal.php?pg=avalia.php&id_trabalho=1138&aval= # 2019-7-28 17:16:04 #  # 201.6.128.211 # mmartins@usp.br # 120; 
+Pagina: /fmsys/comu2019/avaliacao/principal.php?pg=salva_parecer.php&val=&id_trabalho=1138&aval_id=120 # 2019-7-28 17:16:04 #  # 201.6.128.211 # mmartins@usp.br # 120; 
+Pagina: /fmsys/comu2019/avaliacao/principal.php # 2019-7-28 17:16:04 #  # 201.6.128.211 # mmartins@usp.br # 120; 
+Pagina: /fmsys/comu2019/avaliacao/principal.php?pg=avalia.php&id_trabalho=1140&aval= # 2019-7-28 17:16:04 #  # 201.6.128.211 # mmartins@usp.br # 120; 
+Pagina: /fmsys/comu2019/avaliacao/principal.php?pg=salva_parecer.php&val=&id_trabalho=1140&aval_id=120 # 2019-7-28 17:16:04 #  # 201.6.128.211 # mmartins@usp.br # 120; 
+Pagina: /fmsys/comu2019/avaliacao/principal.php # 2019-7-28 17:16:04 #  # 201.6.128.211 # mmartins@usp.br # 120; 

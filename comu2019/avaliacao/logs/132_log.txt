@@ -1,0 +1,15 @@
+Pagina: /fmsys/comu2019/avaliacao/principal.php?val=dWVuaXN0QHVzcC5icg== # 2019-8-8 17:42:58 #  # 186.204.39.71 # uenist@usp.br # 132; 
+Pagina: /fmsys/comu2019/avaliacao/principal.php?pg=avalia.php&id_trabalho=1072&aval= # 2019-8-8 17:42:58 #  # 186.204.39.71 # uenist@usp.br # 132; 
+Pagina: /fmsys/comu2019/avaliacao/principal.php?val=dWVuaXN0QHVzcC5icg== # 2019-8-8 17:45:13 #  # 186.204.39.71 # uenist@usp.br # 132; 
+Pagina: /fmsys/comu2019/avaliacao/principal.php?pg=avalia.php&id_trabalho=1126&aval= # 2019-8-8 17:45:13 #  # 186.204.39.71 # uenist@usp.br # 132; 
+Pagina: /fmsys/comu2019/avaliacao/principal.php?val=dWVuaXN0QHVzcC5icg== # 2019-8-8 17:48:19 #  # 186.204.39.71 # uenist@usp.br # 132; 
+Pagina: /fmsys/comu2019/avaliacao/principal.php?pg=avalia.php&id_trabalho=1147&aval= # 2019-8-8 17:48:19 #  # 186.204.39.71 # uenist@usp.br # 132; 
+Pagina: /fmsys/comu2019/avaliacao/principal.php?pg=salva_parecer.php&val=&id_trabalho=1147&aval_id=132 # 2019-8-8 17:48:19 #  # 186.204.39.71 # uenist@usp.br # 132; 
+Pagina: /fmsys/comu2019/avaliacao/principal.php # 2019-8-8 17:48:19 #  # 186.204.39.71 # uenist@usp.br # 132; 
+Pagina: /fmsys/comu2019/avaliacao/principal.php?pg=avalia.php&id_trabalho=1160&aval= # 2019-8-8 17:48:19 #  # 186.204.39.71 # uenist@usp.br # 132; 
+Pagina: /fmsys/comu2019/avaliacao/principal.php?pg=salva_parecer.php&val=&id_trabalho=1160&aval_id=132 # 2019-8-8 17:48:19 #  # 186.204.39.71 # uenist@usp.br # 132; 
+Pagina: /fmsys/comu2019/avaliacao/principal.php # 2019-8-8 17:48:19 #  # 186.204.39.71 # uenist@usp.br # 132; 
+Pagina: /fmsys/comu2019/avaliacao/principal.php?pg=avalia.php&id_trabalho=1126&aval= # 2019-8-8 17:48:19 #  # 186.204.39.71 # uenist@usp.br # 132; 
+Pagina: /fmsys/comu2019/avaliacao/principal.php?pg=salva_parecer.php&val=&id_trabalho=1126&aval_id=132 # 2019-8-8 17:48:19 #  # 186.204.39.71 # uenist@usp.br # 132; 
+Pagina: /fmsys/comu2019/avaliacao/principal.php # 2019-8-8 17:48:19 #  # 186.204.39.71 # uenist@usp.br # 132; 
+Pagina: /fmsys/comu2019/avaliacao/principal.php?pg=avalia.php&id_trabalho=1072&aval= # 2019-8-8 17:48:19 #  # 186.204.39.71 # uenist@usp.br # 132; 

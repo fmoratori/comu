@@ -1,0 +1,3 @@
+Pagina: /fmsys/fesbe/2/avaliacao/principal.php?val=Y2FtYXJpbmlAaWNiLnVzcC5icg== # 2017-6-9 16:22:36 #  # 143.107.120.223 # camarini@icb.usp.br # 89; 
+Pagina: /fmsys/fesbe/2/avaliacao/principal.php?val=Y2FtYXJpbmlAaWNiLnVzcC5icg== # 2017-6-9 16:23:09 #  # 143.107.120.223 # camarini@icb.usp.br # 89; 
+LOGOUT: 2017-6-9 16:23:09 # 2017-6-9 16:25:28 # 143.107.120.223 # camarini@icb.usp.br # 89; 

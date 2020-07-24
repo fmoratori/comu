@@ -1,0 +1,9 @@
+Pagina: /fmsys/fesbe/2/avaliacao/principal.php?val=ZHZ0YW1ib3VyZ2lAYnV0YW50YW4uZ292LmJyIA== # 2017-5-22 16:37:46 #  # 187.122.125.174 # dvtambourgi@butantan.gov.br  # 62; 
+Pagina: /fmsys/fesbe/2/avaliacao/principal.php?val=ZHZ0YW1ib3VyZ2lAYnV0YW50YW4uZ292LmJyIA== # 2017-5-23 14:14:28 #  # 179.213.219.201 # dvtambourgi@butantan.gov.br  # 62; 
+LOGOUT: 2017-5-23 14:14:28 # 2017-5-23 14:14:33 # 179.213.219.201 # dvtambourgi@butantan.gov.br  # 62; 
+Pagina: /fmsys/fesbe/2/avaliacao/principal.php?val=ZHZ0YW1ib3VyZ2lAYnV0YW50YW4uZ292LmJy # 2017-5-23 14:17:32 #  # 179.213.219.201 # dvtambourgi@butantan.gov.br # 62; 
+LOGOUT: 2017-5-23 14:17:32 # 2017-5-23 14:17:38 # 179.213.219.201 # dvtambourgi@butantan.gov.br # 62; 
+Pagina: /fmsys/fesbe/2/avaliacao/principal.php?val=ZHZ0YW1ib3VyZ2lAYnV0YW50YW4uZ292LmJy # 2017-5-23 14:18:42 #  # 200.144.57.9 # dvtambourgi@butantan.gov.br # 62; 
+Pagina: /fmsys/fesbe/2/avaliacao/principal.php?pg=avalia.php&id_trabalho=44&aval= # 2017-5-23 14:18:42 #  # 200.144.57.9 # dvtambourgi@butantan.gov.br # 62; 
+Pagina: /fmsys/fesbe/2/avaliacao/principal.php?val=ZHZ0YW1ib3VyZ2lAYnV0YW50YW4uZ292LmJy # 2017-5-23 14:18:42 #  # 200.144.57.9 # dvtambourgi@butantan.gov.br # 62; 
+Pagina: /fmsys/fesbe/2/avaliacao/principal.php?val=ZHZ0YW1ib3VyZ2lAYnV0YW50YW4uZ292LmJy # 2017-5-23 16:15:04 #  # 143.107.255.194 # dvtambourgi@butantan.gov.br # 62; 
